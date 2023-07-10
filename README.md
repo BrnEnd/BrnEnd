@@ -1,5 +1,5 @@
 <h1 align="center">Oi, só alegria? </h1>
-<h3 align="center">Desenvolvo em C# e to me esforçando para subir projetos pessoais aqui, da uma olhada ↓/h3>
+<h3 align="center">Desenvolvo em C# e to me esforçando para subir projetos pessoais aqui, da uma olhada ↓ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brnend&label=Profile%20views&color=0e75b6&style=flat" alt="brnend" /> </p>
 
