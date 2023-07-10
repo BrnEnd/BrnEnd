@@ -1,17 +1,17 @@
-<h1 align="center">Oi, sou o Bruno Alexandrino</h1>
-<h3 align="center">Desenvolvo em C# e estou tentando popular esse repo com alguns projetos pessoais em outras langs</h3>
+<h1 align="center">Oi, só alegria? </h1>
+<h3 align="center">Desenvolvo em C# e to me esforçando para subir projetos pessoais aqui, da uma olhada ↓/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brnend&label=Profile%20views&color=0e75b6&style=flat" alt="brnend" /> </p>
 
 <p align="left"> <a href="https://twitter.com/brnend2" target="blank"><img src="https://img.shields.io/twitter/follow/brnend2?logo=twitter&style=for-the-badge" alt="brnend2" /></a> </p>
 
-- 🔭 Meu core de api's em .NET 5 [Sistema Agendamento](https://github.com/BrnEnd/SistemaAgendamento)
+- 🔭 Meu core de api's em .NET 5 → [Sistema Agendamento](https://github.com/BrnEnd/SistemaAgendamento)
 
-- 🔭 Esse aqui é um worker experimental [Worker BD](https://github.com/BrnEnd/Worker)
+- 🔭 Esse aqui é um worker experimental → [Worker BD](https://github.com/BrnEnd/Worker)
 
-- 💬 Posso te ajudar em: **.NET Framework/Core - Python - PL/SQL - AWS**
+- 💬 Posso te ajudar em → **.NET Framework/Core - Python - PL/SQL - AWS**
 
-- 📫 E-mail **bruno.marcas@gmail.com**
+- 📫 E-mail → **bruno.marcas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
